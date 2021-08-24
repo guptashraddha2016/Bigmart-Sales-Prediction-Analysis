@@ -4,7 +4,7 @@
 # File Description
  1) Bigmart-Sales-Prediction-Analysis(Jupyter Notebook)
  2) README File
- 3) Train Dataset
+ 3) Train Dataset (csv file)
 
 # Explaination
  The Aim is to Build a Predictive Model and forecast the sales of each produt at a particular store.
